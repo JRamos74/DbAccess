@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnector", "DbConnector\DbConnector.csproj", "{7E0F3EEE-D47B-48A5-8DB0-3D6168BE7112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0F3EEE-D47B-48A5-8DB0-3D6168BE7112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0F3EEE-D47B-48A5-8DB0-3D6168BE7112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0F3EEE-D47B-48A5-8DB0-3D6168BE7112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0F3EEE-D47B-48A5-8DB0-3D6168BE7112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1069CA56-B4F7-4E05-9025-CFB40C777FD3}
+	EndGlobalSection
+EndGlobal
