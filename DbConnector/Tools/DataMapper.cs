@@ -29,7 +29,7 @@ namespace DbConnector.Tools
 
             foreach(System.Reflection.PropertyInfo prop in props)
             {
-                if (colnames.Equals(prop.Name.ToLower()))
+                if (colnames.Contains(prop.Name.ToLower()))
                 {
                     if(reader[prop.Name].GetType() == typeof(decimal))
                     {
